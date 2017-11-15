@@ -1,0 +1,9 @@
+5cb91ad5d98ab8ab4bf79d6512a4a1ed *DESCRIPTION
+1486ba4d9c8627382579732c000c4daf *NAMESPACE
+6c96168cbff3a0dba9ebb400b7f701fd *R/scraEP.R
+21902914bbd168f67f936b26dbc3fdd3 *R/xscrape.R
+7a8b9f51be2f9b5f01d8e8b2ae793edd *data/wiki.rda
+af3b6c2bfb6fea7321d142fb5450ff76 *man/scraEP-package.Rd
+bbd815a3bff3dac7e11945026cf675b4 *man/scraEP.Rd
+0a7fb31a18b19032c4027c2a0a06a7cd *man/wiki.Rd
+f24c09434bcd94d6360220349e296261 *man/xscrape.Rd

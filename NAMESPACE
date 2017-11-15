@@ -1,0 +1,6 @@
+importFrom("RCurl", "getURL")
+importFrom("XML", "htmlParse", "xpathSApply", "xpathApply", "xmlValue")
+importFrom("utils", "write.csv")
+
+export(scraEP)
+export(xscrape)
