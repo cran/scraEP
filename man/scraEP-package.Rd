@@ -15,8 +15,8 @@ Fetch all in-house career information of MEPs from the European parliament's web
 \tabular{ll}{
 Package: \tab scraEP\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2017-11-15\cr
+Version: \tab 1.1\cr
+Date: \tab 2018-07-01\cr
 License: \tab GPL (>=3)\cr
 }
 
