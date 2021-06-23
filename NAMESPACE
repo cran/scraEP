@@ -1,7 +1,3 @@
-importFrom("RCurl", "getURL")
-importFrom("XML", "htmlParse", "xpathSApply", "xpathApply", "xmlValue")
-importFrom("utils", "write.csv")
-importFrom("data.table", "rbindlist")
-
-export(scraEP)
 export(xscrape)
+export(strcomp)
+export(unaccent)

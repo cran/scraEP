@@ -3,11 +3,11 @@
 \docType{package}
 
 \title{
-Scrape the careers of all members of European parliament.
+Scrape the Web with Extra Power.
 }
 
 \description{
-Fetch all in-house career information of MEPs from the European parliament's website, and put them in a data frame.
+A set of tools for scraping information from webpages and other XML contents.
 }
 
 \details{
@@ -15,14 +15,16 @@ Fetch all in-house career information of MEPs from the European parliament's web
 \tabular{ll}{
 Package: \tab scraEP\cr
 Type: \tab Package\cr
-Version: \tab 1.1\cr
-Date: \tab 2018-07-01\cr
+Version: \tab 1.2\cr
+Date: \tab 2021-06-21\cr
 License: \tab GPL (>=3)\cr
 }
 
-Function \code{scraEP} downloads and extracts career information from the EP's website.
+Function \code{xscrape} is a general tool to extract information from html pages into data frames using XPath or CSS queries.
 
-Function \code{xscrape} is a general tool to extract information from html pages into data frames using XPath queries.
+Function \code{unaccent} removes accents from character strings.
+
+Function \code{strcomp} compares the elements of two character vectors.
 }
 
 \author{
